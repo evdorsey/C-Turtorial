@@ -4,3 +4,6 @@ c:\users\evdorsey.sbiz\documents\visual studio 2013\Projects\Tutorials\HelloWorl
 c:\users\evdorsey.sbiz\documents\visual studio 2013\Projects\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\evdorsey.sbiz\documents\visual studio 2013\Projects\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\evdorsey.sbiz\documents\visual studio 2013\Projects\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\evdorsey.SBIZ\Documents\C-Turtorial\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\evdorsey.SBIZ\Documents\C-Turtorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\evdorsey.SBIZ\Documents\C-Turtorial\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
